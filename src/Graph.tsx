@@ -26,7 +26,7 @@ class Graph extends Component<IProps, {}> {
       price_abc: 'float',
       price_def: 'float',
       timestamp: 'date',
-      ratio: 'float'
+      ratio: 'float',
       upper_bound: 'float',
       lower_bound: 'float',
       trigger_alert: 'float',
